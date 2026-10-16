@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "svgconvert",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8901", "--directory", "C:/Users/91903/OneDrive/Document/EV PROJECT/papers"],
+      "port": 8901
+    }
+  ]
+}

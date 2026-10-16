@@ -1,0 +1,12 @@
+node_modules/
+build/
+target/
+.idea/
+.vscode/
+*.log
+*.docx
+*.pdf
+*.pptx
+*.zip
+papers/
+ev-charging-backend/src/main/resources/application.propertiesev_charging_db.sql
